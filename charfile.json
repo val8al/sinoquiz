@@ -1,0 +1,37 @@
+[
+    {
+        "kDefinition": "one; a, an; alone",
+        "kMandarin": "YI1",
+        "string": "一"
+    },
+    {
+        "kDefinition": "male adult; robust, vigorous; 4th heavenly stem",
+        "kMandarin": "DING1 ZHENG1",
+        "string": "丁"
+    },
+    {
+        "kDefinition": "seven",
+        "kMandarin": "QI1",
+        "string": "七"
+    },
+    {
+        "kDefinition": "ten thousand; innumerable",
+        "kMandarin": "WAN4 MO4",
+        "string": "万"
+    },
+    {
+        "kDefinition": "unit of length equal 3.3 meters; gentleman, man, husband",
+        "kMandarin": "ZHANG4",
+        "string": "丈"
+    },
+    {
+        "kDefinition": "three",
+        "kMandarin": "SAN1 SAN4",
+        "string": "三"
+    },
+    {
+        "kDefinition": "top; superior, highest; go up, send up",
+        "kMandarin": "SHANG4",
+        "string": "上"
+    }
+]
